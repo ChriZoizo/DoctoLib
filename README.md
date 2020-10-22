@@ -61,7 +61,7 @@ rails console --sandbox #for test without any DB save when you quit
 
 My teamate, the others teamates and ruby (and rails) community
 
-#Contact
+# Contact
 Chris : Christeufeur83@gmail.com
 Flo : ???????.??@????.???
 
